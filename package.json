@@ -1,0 +1,31 @@
+{
+  "name": "practice-db",
+  "version": "0.0.2",
+  "description": "Resturant database application written in Javascript",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Laydiebri/Practice-db.git"
+  },
+  "keywords": [
+    "Javascript",
+    "Node.js",
+    "Express.js",
+    "SQLite",
+    "Angular.js"
+  ],
+  "author": "Zabrina Osborne",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Laydiebri/Practice-db/issues"
+  },
+  "homepage": "https://github.com/Laydiebri/Practice-db#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^5.0.2"
+  }
+}
